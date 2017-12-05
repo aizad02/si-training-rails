@@ -12,7 +12,7 @@ gem 'rails', '~> 5.1.1'
 gem 'puma', '~> 3.9'
 
 # Use Rack Timeout. Read more: https://github.com/heroku/rack-timeout
-gem 'rack-timeout', '~> 0.4'
+#gem 'rack-timeout', '~> 0.4'
 
 # Build JSON APIs with ease. Read more: https://github.com/rails/jbuilder
 gem 'jbuilder', '~> 2.5'
