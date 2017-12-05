@@ -1,0 +1,18 @@
+---
+
+development:
+  adapter: sqlite3
+  database: db/development.sqlite3.db
+
+test:
+  adapter: sqlite3
+  database: db/test.sqlite3.db
+
+staging:
+  adapter: sqlite3
+  database: db/staging.sqlite3.db
+
+production:
+  adapter: sqlite3
+  database: db/production.sqlite3.db
+#  url: <%#= ENV['DATABASE_URL'].gsub('?', '_production?') %>
