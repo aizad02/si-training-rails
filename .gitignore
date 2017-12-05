@@ -20,4 +20,3 @@
 /vendor/bundle
 /public/assets/*
 .env
-bin
